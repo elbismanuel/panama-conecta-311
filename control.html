@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="referrer" content="no-referrer"><meta name="theme-color" content="#081523"><title>Control remoto · Panamá Conecta + 311</title></head>
+<body><main>
+<header><span class="eyebrow">PANAMÁ CONECTA + 311</span><h1>Tu presentación.<br>En tus manos.</h1><p>Control remoto de la animación</p></header>
+<section class="panel"><div id="status" role="status">Preparando conexión…</div><div class="clock"><span id="time">00:00</span><span>/ 01:30</span></div>
+<progress id="progress" max="90" value="0" aria-label="Avance de la animación"></progress>
+<div id="playback" class="playback">Esperando la pantalla</div>
+<div class="primary"><button id="play" disabled>▶ Reproducir</button><button id="pause" disabled>Ⅱ Pausar</button></div>
+<div class="secondary"><button id="back" disabled>−5 s</button><button id="restart" disabled>↺ Reiniciar</button><button id="forward" disabled>+5 s</button></div>
+<button id="reconnect" class="reconnect">Volver a conectar</button>
+</section><p class="help">Mantén abierta la animación en la computadora. Reproducir continúa desde la pausa; reiniciar vuelve al principio y deja la animación en pausa.</p><p class="help">Si no conecta, comprueba internet en ambos equipos. Algunas redes corporativas bloquean esta conexión; prueba con el punto de acceso del teléfono.</p>
+</main><script type="module" src="/src/remoto/control.js"></script></body></html>

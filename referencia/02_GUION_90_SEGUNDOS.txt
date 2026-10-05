@@ -1,0 +1,65 @@
+GUION DE PRODUCCIÓN · 90 SEGUNDOS
+Evento: 6 de octubre de 2026 · panel 10:45 a. m.
+Formato: 16:9 · 1920×1080 · 30 fps
+Versión con los recursos disponibles: móvil público + formulario web DEMO.
+La captura del flujo móvil autenticado está pendiente.
+
+TOMA 01 | 00–08 s | Una necesidad cotidiana
+VISUAL: Escena cinematográfica de la ciudadana junto a bolsas de residuos. No presentar la imagen generada como registro de un hecho real.
+RECURSO: estilo
+LOCUCIÓN: Cada día, una situación en nuestra comunidad necesita ser escuchada. Una calle con basura acumulada puede ser el inicio de un reporte.
+TEXTO EN PANTALLA: Tu comunidad, más cerca
+
+TOMA 02 | 08–16 s | Panamá Conecta en tu mano
+VISUAL: Plano de la misma ciudadana usando Android. Inserto frontal con captura real del inicio Kotlin.
+RECURSO: mobile_01_inicio.png
+LOCUCIÓN: Con Panamá Conecta, la atención ciudadana también comienza desde tu teléfono.
+TEXTO EN PANTALLA: Panamá Conecta + 311
+
+TOMA 03 | 16–24 s | Encuentra el servicio
+VISUAL: Catálogo Kotlin real dentro de dispositivo. Resaltar categorías como gráfica externa, sin cambiar la UI.
+RECURSO: mobile_02_categorias.png
+LOCUCIÓN: Busca el servicio que corresponde a tu necesidad y prepara la información para reportarla al 311.
+TEXTO EN PANTALLA: Elige el servicio
+
+TOMA 04 | 24–32 s | También desde la web
+VISUAL: Corte al segundo ciudadano en su computadora. Inserto de la búsqueda web por basura; acercamiento a Recolección - AAUD.
+RECURSO: web_03_busqueda_basura.png
+LOCUCIÓN: También puedes hacerlo desde la web. Por ejemplo, seleccionando el servicio de recolección de la AAUD.
+TEXTO EN PANTALLA: También desde la web
+
+TOMA 05 | 32–42 s | Describe la situación
+VISUAL: Componente web real en entorno DEMO. Mostrar Descripción y Número de Contacto, sin enfocar el teléfono ficticio.
+RECURSO: web_05_DEMO_descripcion.png
+LOCUCIÓN: Describe qué ocurre y aporta los detalles que ayuden a comprender la situación. Una explicación clara hace más útil tu reporte.
+TEXTO EN PANTALLA: Describe lo que ocurre
+
+TOMA 06 | 42–52 s | Ubica el caso
+VISUAL: Componente web DEMO: sección Ubicación, selección territorial y mapa. La localización de la escena es ilustrativa.
+RECURSO: web_06_DEMO_ubicacion.png
+LOCUCIÓN: Indica dónde sucede: selecciona la ubicación y añade una referencia para encontrar el lugar.
+TEXTO EN PANTALLA: Ubica el problema
+
+TOMA 07 | 52–62 s | Aporta evidencia
+VISUAL: Componente web DEMO: Documentos Adjuntos. Usar área de adjuntos sin inventar evidencia enviada ni pulsar Registrar Caso.
+RECURSO: web_07_DEMO_evidencia.png
+LOCUCIÓN: Adjunta una fotografía o un video que aporte contexto. Revisa la información antes de registrar el caso.
+TEXTO EN PANTALLA: Adjunta evidencia
+
+TOMA 08 | 62–72 s | Del reporte al registro
+VISUAL: Gráfica editorial externa: Describir → Ubicar → Adjuntar → Registrar. Sin pantalla falsa de éxito ni número oficial inventado.
+RECURSO: diagrama
+LOCUCIÓN: El registro permite identificar el caso para su consulta. Reportar es el primer paso para canalizar la atención.
+TEXTO EN PANTALLA: Registra tu caso
+
+TOMA 09 | 72–82 s | La consulta también importa
+VISUAL: Motion graphics editorial: tarjeta abstracta titulada Consulta del caso. No imita una pantalla de la app. Texto secundario: Representación del flujo.
+RECURSO: consulta
+LOCUCIÓN: Desde Mis casos, puedes consultar la información y el estado disponible de tus reportes.
+TEXTO EN PANTALLA: Consulta su avance
+
+TOMA 10 | 82–90 s | Cierre institucional
+VISUAL: Teléfono y computadora sobre azul profundo. Inserta capturas reales del catálogo y la web. Logos originales con margen y cierre en silencio de un segundo.
+RECURSO: cierre
+LOCUCIÓN: Panamá Conecta y 311. Tecnología al servicio de una ciudadanía más cercana, participativa y conectada.
+TEXTO EN PANTALLA: Tu comunidad, más cerca

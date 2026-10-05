@@ -1,0 +1,8 @@
+CREA UNA ANIMACIÓN DE PRESENTACIÓN DE 90 SEGUNDOS, HORIZONTAL 16:9.
+Usa exclusivamente los PNG suministrados, los logos originales y las frases del guion. Los personajes pueden mostrarse como fotografías ilustrativas de la referencia generada, con movimientos lentos de cámara simulados. No necesitas generar personas en movimiento.
+
+Diseño: fondo azul profundo, luz cian suave, tipografía limpia y grande, mucho espacio vacío. Teléfono vertical con capturas móviles y monitor horizontal con capturas web. Nada de interfaces falsas. Los archivos DEMO mantienen su identificación. Transiciones por fundido de 0,5 segundos, acercamientos suaves hasta 105 %, resaltados externos al contenido, sin desplazar controles ni cambiar texto.
+
+Secuencia: problema ciudadano → teléfono y catálogo → persona con computadora → búsqueda del servicio → descripción → ubicación → evidencia → gráfica editorial de registro → gráfica editorial de consulta → cierre con marca.
+
+Usar 04_NARRACION.txt y 05_SUBTITULOS.srt. La previsualización HTML incluida permite revisar ritmo y orden, pero no tiene locución ni música y no es un archivo de video exportado. Si la herramienta puede exportar, entregar MP4 H.264 1080p/30 fps y versión sin subtítulos. Si no puede, entregar la animación navegable sin afirmar que existe un MP4.

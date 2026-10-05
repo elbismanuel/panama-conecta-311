@@ -1,0 +1,43 @@
+INVENTARIO Y VERIFICACIÓN
+Preparación: 1 de octubre de 2026
+
+REVISIÓN DEL PROYECTO
+Se revisaron los módulos relacionados con 311, no una auditoría completa del repositorio.
+Web: src/pages/311/Index.jsx, SearchResults.jsx, SubcategoryCard.jsx, ReportFormModal.jsx; rutas de App.jsx; configuración visual.
+Kotlin: Casos311Flow.kt, NuevoCaso311Screen.kt, CasoEnviadoScreen.kt, MisCasosScreen.kt, Modelos311.kt y README del proyecto.
+Verificado en código: selección de servicio, descripción, zona territorial, referencia, evidencia fotográfica/video, registro y consulta de casos.
+Verificado en UI pública: catálogo web y móvil; búsqueda web de basura con Recolección - AAUD e institución AAUD.
+No verificado en ejecución: envío de un caso, confirmación, seguimiento autenticado, entrega de notificaciones, disponibilidad pública de Kotlin/iOS.
+El README indica convivencia de Kotlin con la app React Native en producción. El video no afirma un lanzamiento de Kotlin.
+No se registró ninguna denuncia ni se transmitieron datos ficticios al servicio 311.
+
+TIPOS DE RECURSO
+recursos/estilo/REFERENCIA_CINEMATOGRAFICA_IA.png | Referencia cinematográfica generada por IA, personajes y situación ficticios
+recursos/marca/logo_311.png | Logo original del proyecto
+recursos/marca/logo_aig.png | Logo original del proyecto
+recursos/marca/logo_horizontal.png | Logo original del proyecto
+recursos/marca/logo_horizontal_blanco.png | Logo original del proyecto
+recursos/marca/logo_panama_conecta.png | Logo original del proyecto
+recursos/mobile/mobile_01_inicio.png | Captura real de interfaz pública
+recursos/mobile/mobile_02_categorias.png | Captura real de interfaz pública
+recursos/web/web_01_catalogo.png | Captura real de interfaz pública
+recursos/web/web_03_busqueda_basura.png | Captura real de interfaz pública
+recursos/web/web_04_DEMO_servicio.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_04_DEMO_servicio_detalle.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_05_DEMO_descripcion.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_05_DEMO_descripcion_detalle.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_06_DEMO_ubicacion.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_06_DEMO_ubicacion_detalle.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_07_DEMO_evidencia.png | Render del componente web real, datos ficticios y sin envío
+recursos/web/web_07_DEMO_evidencia_detalle.png | Render del componente web real, datos ficticios y sin envío
+
+EXCLUSIONES
+La captura inicial del lanzador del teléfono, los XML de inspección, la pantalla de inicio de sesión y la página de servicios aún cargando no se incluyen en la entrega.
+Las tomas de éxito y Mis casos se representan con gráfica editorial; no hay capturas reales de esos estados en este paquete.
+00_EMPIEZA_AQUI.html es el índice. 08_PREVISUALIZACION.html es una animación muda con subtítulos editoriales, no MP4.
+Los SRT son tiempos de edición propuestos; reajustar a la grabación final de la voz.
+No se incluyen música ni audio con derechos de terceros. La referencia generada no contiene evidencia documental del caso.
+La invitación y la agenda del usuario solo informan contexto, título y fecha; no se incluyen como recursos para que el video no parezca una invitación.
+
+ENCUADRES DE DETALLE
+Los PNG con sufijo _detalle son capturas del panel del formulario, con menos margen alrededor. Al usarlos, añadir el rótulo editorial DEMOSTRACIÓN, como hace la previsualización; la banda externa de la captura completa puede no aparecer en ese encuadre. No constituyen evidencia de un caso enviado.

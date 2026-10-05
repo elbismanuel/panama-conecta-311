@@ -1,0 +1,92 @@
+[
+  [
+    0,
+    8,
+    "Una necesidad cotidiana",
+    "Cada día, una situación en nuestra comunidad necesita ser escuchada. Una calle con basura acumulada puede ser el inicio de un reporte.",
+    "Escena cinematográfica de la ciudadana junto a bolsas de residuos. No presentar la imagen generada como registro de un hecho real.",
+    "Tu comunidad, más cerca",
+    "estilo"
+  ],
+  [
+    8,
+    16,
+    "Panamá Conecta en tu mano",
+    "Con Panamá Conecta, la atención ciudadana también comienza desde tu teléfono.",
+    "Plano de la misma ciudadana usando Android. Inserto frontal con captura real del inicio Kotlin.",
+    "Panamá Conecta + 311",
+    "mobile_01_inicio.png"
+  ],
+  [
+    16,
+    24,
+    "Encuentra el servicio",
+    "Busca el servicio que corresponde a tu necesidad y prepara la información para reportarla al 311.",
+    "Catálogo Kotlin real dentro de dispositivo. Resaltar categorías como gráfica externa, sin cambiar la UI.",
+    "Elige el servicio",
+    "mobile_02_categorias.png"
+  ],
+  [
+    24,
+    32,
+    "También desde la web",
+    "También puedes hacerlo desde la web. Por ejemplo, seleccionando el servicio de recolección de la AAUD.",
+    "Corte al segundo ciudadano en su computadora. Inserto de la búsqueda web por basura; acercamiento a Recolección - AAUD.",
+    "También desde la web",
+    "web_03_busqueda_basura.png"
+  ],
+  [
+    32,
+    42,
+    "Describe la situación",
+    "Describe qué ocurre y aporta los detalles que ayuden a comprender la situación. Una explicación clara hace más útil tu reporte.",
+    "Componente web real en entorno DEMO. Mostrar Descripción y Número de Contacto, sin enfocar el teléfono ficticio.",
+    "Describe lo que ocurre",
+    "web_05_DEMO_descripcion.png"
+  ],
+  [
+    42,
+    52,
+    "Ubica el caso",
+    "Indica dónde sucede: selecciona la ubicación y añade una referencia para encontrar el lugar.",
+    "Componente web DEMO: sección Ubicación, selección territorial y mapa. La localización de la escena es ilustrativa.",
+    "Ubica el problema",
+    "web_06_DEMO_ubicacion.png"
+  ],
+  [
+    52,
+    62,
+    "Aporta evidencia",
+    "Adjunta una fotografía o un video que aporte contexto. Revisa la información antes de registrar el caso.",
+    "Componente web DEMO: Documentos Adjuntos. Usar área de adjuntos sin inventar evidencia enviada ni pulsar Registrar Caso.",
+    "Adjunta evidencia",
+    "web_07_DEMO_evidencia.png"
+  ],
+  [
+    62,
+    72,
+    "Del reporte al registro",
+    "El registro permite identificar el caso para su consulta. Reportar es el primer paso para canalizar la atención.",
+    "Gráfica editorial externa: Describir → Ubicar → Adjuntar → Registrar. Sin pantalla falsa de éxito ni número oficial inventado.",
+    "Registra tu caso",
+    "diagrama"
+  ],
+  [
+    72,
+    82,
+    "La consulta también importa",
+    "Desde Mis casos, puedes consultar la información y el estado disponible de tus reportes.",
+    "Motion graphics editorial: tarjeta abstracta titulada Consulta del caso. No imita una pantalla de la app. Texto secundario: Representación del flujo.",
+    "Consulta su avance",
+    "consulta"
+  ],
+  [
+    82,
+    90,
+    "Cierre institucional",
+    "Panamá Conecta y 311. Tecnología al servicio de una ciudadanía más cercana, participativa y conectada.",
+    "Teléfono y computadora sobre azul profundo. Inserta capturas reales del catálogo y la web. Logos originales con margen y cierre en silencio de un segundo.",
+    "Tu comunidad, más cerca",
+    "cierre"
+  ]
+]

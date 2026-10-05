@@ -1,0 +1,45 @@
+ACTÚA COMO DIRECTOR AUDIOVISUAL Y EDITOR DE UNA DEMOSTRACIÓN INSTITUCIONAL DE PRODUCTO.
+
+Crea una pieza de 90 segundos, horizontal 16:9, para proyectar durante un panel de la AIG. Entrega final deseada: MP4 H.264, 1920×1080, 30 fps, con música instrumental, narración en español panameño neutro y subtítulos. Si tu herramienta no puede producir todo el montaje, genera las tomas individuales que admita y entrega instrucciones exactas para ensamblarlas. No afirmes haber renderizado un video si solo entregas texto o imágenes.
+
+TÍTULO: Panamá Conecta + 311 · Tu comunidad, más cerca.
+CONTEXTO: panel «El Futuro es Ahora: Inteligencia Artificial y Tecnologías detrás del CAC311», 6 de octubre de 2026, dentro del evento «Reconocimiento a la Entidad con Calidad en Atención Ciudadana 2026». El video demuestra atención ciudadana. No atribuyas a la app clasificación por IA, resolución automática ni otras funciones por el solo título del panel.
+
+OBJETIVO
+Mostrar a una persona reportando una necesidad de su comunidad desde Panamá Conecta, y la alternativa de hacerlo desde la web. Comunicar selección del servicio, descripción, ubicación, evidencia, registro y consulta del caso. El problema elegido es acumulación de basura pendiente de recolección; el servicio verificado en la búsqueda web es «Recolección - AAUD». No confundas registro con solución de la incidencia.
+
+ARCHIVOS DE REFERENCIA
+1. Lee 02_GUION_90_SEGUNDOS.txt y 03_PROMPTS_POR_TOMA.txt.
+2. Usa 04_NARRACION.txt y 05_SUBTITULOS.srt para el audio y los subtítulos.
+3. Revisa 06_INVENTARIO_Y_VERIFICACION.txt antes de usar cualquier captura.
+4. Usa recursos/mobile para la app Kotlin y recursos/web para la web. Los archivos web con DEMO son renders del componente real con datos ficticios y sin envío; conserva su identificación de demostración.
+5. Usa los PNG originales de recursos/marca. No redibujes, deformes, reescribas ni inventes logos.
+6. REFERENCIA_CINEMATOGRAFICA_IA.png fija la dirección de fotografía y los personajes. Es una cuadrícula de cuatro planos, no una interfaz ni una fotografía documental. Recrea cada plano por separado; no animes toda la cuadrícula como una sola escena.
+
+DIRECCIÓN CREATIVA
+Estética contemporánea, humana y tecnológica: azul profundo #003C6F y #061629, blanco, acentos cian discretos; luz natural en exteriores y oficina, reflejos suaves en dispositivos, profundidad de campo moderada. Apariencia de película comercial institucional de alta calidad. Cámara con desplazamientos cortos y controlados; transiciones por coincidencia de movimiento y encuadre. Nada de hologramas, lluvia de código, exceso de partículas ni luces que dificulten leer.
+
+PERSONAJES Y CONTINUIDAD
+Ciudadana ficticia panameña adulta de unos 35 años, piel morena, cabello oscuro a los hombros, blusa verde petróleo, pantalón beige, bolso marrón; mismo rostro, ropa, teléfono negro y entorno entre sus planos. Segundo ciudadano ficticio adulto de unos 40 años, camisa azul clara, oficina doméstica luminosa, computadora con monitor horizontal. Sin personas públicas reales ni testimonios atribuidos a funcionarios. La mujer permanece detenida en la acera cuando usa el teléfono.
+
+REGLA DE FIDELIDAD DE PANTALLAS
+Genera las personas, los entornos y los movimientos por separado. Inserta las capturas originales como capas planas dentro del teléfono/monitor en edición, conservando proporción, colores, texto e iconos. Usa seguimiento de cuatro esquinas si hace falta. Los dedos no deben tapar el contenido esencial. Alterna planos humanos de 3–5 segundos con insertos frontales y legibles de pantalla de 4–6 segundos. No pidas al modelo que reconstruya texto pequeño ni que alucine una secuencia de clics.
+
+Solo hay capturas móviles verificadas del inicio y del catálogo público. No hay captura móvil autenticada del formulario, del éxito ni de Mis casos. NO inventes esos PNG ni conviertas una captura web en una supuesta pantalla Kotlin. En la versión realizable con este paquete, pasa del catálogo móvil a la persona que usa la web y muestra allí los campos del formulario DEMO. Explica registro y consulta con gráfica editorial fuera de la interfaz: «Registra tu caso» y «Consulta su avance». No muestres un éxito real ni un número de caso ficticio con apariencia oficial. Si después se suministran capturas móviles autenticadas, sigue 07_CAPTURAS_PENDIENTES.txt y sustituye las tomas correspondientes.
+
+MONTAJE DE 90 SEGUNDOS
+Sigue exactamente los tiempos del guion. Abre con la situación ciudadana, presenta el móvil, enlaza con la web para mostrar el reporte, explica la consulta y cierra con ambos dispositivos y los logos. La versión con recursos disponibles debe ser completa y comprensible. No muestres pantallas de inicio de sesión, errores de carga, escritorio del teléfono, notificaciones privadas, credenciales, cédulas, teléfono personal ni datos de casos ajenos.
+
+TEXTO Y SONIDO
+Frases editoriales de máximo seis palabras: «Tu comunidad, más cerca», «Elige el servicio», «Describe lo que ocurre», «Ubica el problema», «Adjunta evidencia», «Consulta su avance». Texto grande, alto contraste, dentro del 8 % de margen seguro. Subtítulos de máximo dos líneas, centrados abajo sobre fondo oscuro translúcido. Voz cálida, firme y serena; sin imitar voces reales. Música electrónica instrumental discreta, 95–110 BPM, sin voz, con licencia adecuada; bajar música durante la narración. Pequeños sonidos de transición, sin notificaciones invasivas.
+
+NO MOSTRAR NI AFIRMAR
+No afirmar que la versión Kotlin ya está publicada o disponible para todos. No mostrar sello App Store, disponibilidad iOS, tiempos de atención garantizados, respuesta inmediata, SLA, métricas, integraciones no verificadas, resolución automática, seguimiento GPS del personal ni omnicanalidad sincronizada en vivo. No inventar URL pública, QR ni número de expediente. No mostrar el barrio mágicamente limpio después de pulsar Enviar.
+
+SALIDAS
+1. Tomas generadas por separado, con handles de 0,5–1 segundo cuando sea posible.
+2. Montaje de 90 segundos con narración, subtítulos y música.
+3. Versión limpia sin subtítulos y archivo SRT.
+4. Fotograma de portada 1920×1080.
+5. Lista de capturas realmente usadas y cualquier toma que necesite sustitución.
+Si solo puedes hacer animación: aplica 09_PROMPT_ALTERNATIVA_ANIMADA.txt. Mantén las mismas reglas de fidelidad y no presentes una animación HTML como MP4 renderizado.
