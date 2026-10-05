@@ -13,7 +13,8 @@ const server = createServer(async (req, res) => {
   res.end(await readFile('dist/' + filename));
 });
 await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
-const base = 'http://127.0.0.1:' + server.address().port + '/panama-conecta-311/';
+// PC311_URL=https://elbismanuel.github.io/panama-conecta-311/ prueba la página publicada.
+const base = process.env.PC311_URL || 'http://127.0.0.1:' + server.address().port + '/panama-conecta-311/';
 console.log('Servidor listo: ' + base);
 const browser = await chromium.launch({ channel: 'msedge', timeout: 30000, args: ['--use-angle=swiftshader', '--enable-unsafe-swiftshader', '--ignore-gpu-blocklist'] });
 console.log('Navegador abierto');
